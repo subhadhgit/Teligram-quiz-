@@ -1,4 +1,4 @@
-  <script>
+
 const questions = [
 { q: "कोमोरोस की राजधानी कौन-सी है?", options: ["मोरोनी", "बिसाऊ", "यामोउस्क्रो", "साओटोम"], answer: 2 },
 { q: "कोमोरोस की मुद्रा क्या है?", options: ["डॉलर", "फ्रैंक", "पीसो", "CFA फ्रैंक"], answer: 1 },
@@ -333,4 +333,4 @@ const questions = [
     // First load
     loadQuestion();
     updateProgress();
-  </script>
+
